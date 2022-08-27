@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfebb43-c986-4afd-a9bd-27b3d05fcdc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/WorldLanguages/SinoTibetan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WorldLanguages/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorldLanguages/Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661551937100</updated>
-      <workItem from="1661551938898" duration="6720000" />
+      <workItem from="1661551938898" duration="7498000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661555516112</created>
@@ -125,11 +124,29 @@
       <option name="project" value="LOCAL" />
       <updated>1661562235142</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Instantiate Nubian with the noblin language, and call getInfo() on it.  Correct formatting of wOrder string">
+      <created>1661562829131</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661562829131</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -142,6 +159,7 @@
     <MESSAGE value="Add Nubian class extending Language parent class. Add constructor to Nubian class" />
     <MESSAGE value="Correct wOrder in Nubian constructor parameters" />
     <MESSAGE value="Add getInfo() method to the Nubian class with an Override" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add getInfo() method to the Nubian class with an Override" />
+    <MESSAGE value="Instantiate Nubian with the noblin language, and call getInfo() on it.  Correct formatting of wOrder string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instantiate Nubian with the noblin language, and call getInfo() on it.  Correct formatting of wOrder string" />
   </component>
 </project>
