@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfebb43-c986-4afd-a9bd-27b3d05fcdc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661551937100</updated>
-      <workItem from="1661551938898" duration="5362000" />
+      <workItem from="1661551938898" duration="5680000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661555516112</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661561067673</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Nubian class extending Language parent class. Add constructor to Nubian class">
+      <created>1661561637233</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661561637234</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +123,7 @@
     <MESSAGE value="Add getinfo() method to print information for a Language object" />
     <MESSAGE value="Instantiate the first Language object: japanese" />
     <MESSAGE value="Call the getInfo() method on the japanese object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Call the getInfo() method on the japanese object" />
+    <MESSAGE value="Add Nubian class extending Language parent class. Add constructor to Nubian class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Nubian class extending Language parent class. Add constructor to Nubian class" />
   </component>
 </project>
