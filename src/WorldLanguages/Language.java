@@ -26,5 +26,7 @@ public class Language {
 
         SinoTibetan burmese = new SinoTibetan("Burmese", 2000000);
         burmese.getInfo();
+        SinoTibetan mandarin = new SinoTibetan("Mandarin Chinese", 1000000000);
+        mandarin.getInfo();
     }
 }
