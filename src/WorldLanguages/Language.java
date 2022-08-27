@@ -23,5 +23,8 @@ public class Language {
 
         Language noblin = new Nubian("Noblin", 545000);
         noblin.getInfo();
+
+        SinoTibetan burmese = new SinoTibetan("Burmese", 2000000);
+        burmese.getInfo();
     }
 }

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bfebb43-c986-4afd-a9bd-27b3d05fcdc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WorldLanguages/SinoTibetan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0bfebb43-c986-4afd-a9bd-27b3d05fcdc4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661551937100</updated>
-      <workItem from="1661551938898" duration="7498000" />
+      <workItem from="1661551938898" duration="7906000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661555516112</created>
@@ -131,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661562829131</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add SinoTibetan class to extend the Language parent class. Add constructor.">
+      <created>1661566306358</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661566306358</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add if statement to SinoTibetan class to handle Chinese languages' different wordOrder">
+      <created>1661566392264</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661566392264</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +171,8 @@
     <MESSAGE value="Correct wOrder in Nubian constructor parameters" />
     <MESSAGE value="Add getInfo() method to the Nubian class with an Override" />
     <MESSAGE value="Instantiate Nubian with the noblin language, and call getInfo() on it.  Correct formatting of wOrder string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instantiate Nubian with the noblin language, and call getInfo() on it.  Correct formatting of wOrder string" />
+    <MESSAGE value="Add SinoTibetan class to extend the Language parent class. Add constructor." />
+    <MESSAGE value="Add if statement to SinoTibetan class to handle Chinese languages' different wordOrder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add if statement to SinoTibetan class to handle Chinese languages' different wordOrder" />
   </component>
 </project>
