@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661551937100</updated>
-      <workItem from="1661551938898" duration="4401000" />
+      <workItem from="1661551938898" duration="4724000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661555516112</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661560302424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Declare instance variables: name, numSpeakers, regionSpoken, wordOrder">
+      <created>1661560497858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661560497858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add constructor method with four input parameters corresponding to each of the four instance variables">
+      <created>1661560640821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661560640821</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +90,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README file" />
+    <MESSAGE value="Declare instance variables: name, numSpeakers, regionSpoken, wordOrder" />
+    <MESSAGE value="Add constructor method with four input parameters corresponding to each of the four instance variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add constructor method with four input parameters corresponding to each of the four instance variables" />
   </component>
 </project>

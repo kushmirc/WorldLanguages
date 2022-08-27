@@ -12,6 +12,11 @@ public class Language {
         this.regionSpoken = region;
         this.wordOrder = wOrder;
     }
+
+    public void getInfo() {
+        System.out.println(this.name + " is spoken by " + this.numSpeakers + " people mainly in " + this.regionSpoken + ".");
+        System.out.println("The language follows the word order: " + this.wordOrder);
+    }
     public static void main(String[] args) {
 
     }
