@@ -20,5 +20,8 @@ public class Language {
     public static void main(String[] args) {
         Language japanese = new Language("Japanese", 120000000, "Japan", "Subject, object, verb");
         japanese.getInfo();
+
+        Language noblin = new Nubian("Noblin", 545000);
+        noblin.getInfo();
     }
 }

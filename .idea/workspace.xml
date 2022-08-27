@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfebb43-c986-4afd-a9bd-27b3d05fcdc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WorldLanguages/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorldLanguages/Language.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorldLanguages/Nubian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661551937100</updated>
-      <workItem from="1661551938898" duration="6089000" />
+      <workItem from="1661551938898" duration="6720000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661555516112</created>
@@ -116,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661561840822</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add getInfo() method to the Nubian class with an Override">
+      <created>1661562235142</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661562235142</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
     <MESSAGE value="Call the getInfo() method on the japanese object" />
     <MESSAGE value="Add Nubian class extending Language parent class. Add constructor to Nubian class" />
     <MESSAGE value="Correct wOrder in Nubian constructor parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct wOrder in Nubian constructor parameters" />
+    <MESSAGE value="Add getInfo() method to the Nubian class with an Override" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add getInfo() method to the Nubian class with an Override" />
   </component>
 </project>
