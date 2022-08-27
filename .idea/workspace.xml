@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661551937100</updated>
-      <workItem from="1661551938898" duration="5680000" />
+      <workItem from="1661551938898" duration="6089000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661555516112</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661561637234</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Correct wOrder in Nubian constructor parameters">
+      <created>1661561840822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661561840822</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +131,7 @@
     <MESSAGE value="Instantiate the first Language object: japanese" />
     <MESSAGE value="Call the getInfo() method on the japanese object" />
     <MESSAGE value="Add Nubian class extending Language parent class. Add constructor to Nubian class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Nubian class extending Language parent class. Add constructor to Nubian class" />
+    <MESSAGE value="Correct wOrder in Nubian constructor parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct wOrder in Nubian constructor parameters" />
   </component>
 </project>
