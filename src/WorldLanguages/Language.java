@@ -18,6 +18,6 @@ public class Language {
         System.out.println("The language follows the word order: " + this.wordOrder);
     }
     public static void main(String[] args) {
-
+        Language japanese = new Language("Japanese", 120000000, "Japan", "Subject, object, verb");
     }
 }
